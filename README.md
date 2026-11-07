@@ -55,7 +55,10 @@ FNP (Ferns and Petals) that specializes in sending gifts for various occasions l
 * February and August recorded strong sales performance.
 * Imphal ranked first among the top 10 cities by order volume.
 * The correlation value of 0.00348 indicated almost no linear relationship between order quantity and delivery time.
-
+  
+# Dashboard
+<img width="1863" height="798" alt="FNP-Sales-Analysis-Excel-Dashboard" src="https://github.com/user-attachments/assets/69f612d2-9c57-4ec4-9061-96dd60a2a1fc" />
+ 
 # Project Outcome
 
 Developed an interactive Excel dashboard that provides a comprehensive overview of sales performance, helps identify revenue opportunities, evaluates delivery efficiency, and supports better business decisions.
