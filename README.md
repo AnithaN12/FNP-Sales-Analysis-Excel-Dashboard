@@ -32,21 +32,21 @@ FNP (Ferns and Petals) that specializes in sending gifts for various occasions l
 
 # Key Performance Indicators (KPIs)
 
-Total Revenue: ₹35,20,984
-Total Orders: 1,000
-Average Customer Spending: ₹3,520.98
-Average Delivery Time: 5.53 days
-Order Quantity vs. Delivery Time Correlation: 0.00348
+* Total Revenue: ₹35,20,984
+* Total Orders: 1,000
+* Average Customer Spending: ₹3,520.98
+* Average Delivery Time: 5.53 days
+* Order Quantity vs. Delivery Time Correlation: 0.00348
 
 # Tools & Technologies 
 
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Excel Slicers
-Data Cleaning and Transformation
-Data Visualization
-Business Intelligence
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Excel Slicers
+* Data Cleaning and Transformation
+* Data Visualization
+* Business Intelligence
 
 # Key Insights
 
@@ -57,8 +57,5 @@ Imphal ranked first among the top 10 cities by order volume.
 The correlation value of 0.00348 indicated almost no linear relationship between order quantity and delivery time.
 
 # Project Outcome
-
-Developed an interactive Excel dashboard that provides a comprehensive overview of sales performance, helps identify revenue opportunities, evaluates delivery efficiency, and supports better business decisions.
-
 
 Developed an interactive Excel dashboard that provides a comprehensive overview of sales performance, helps identify revenue opportunities, evaluates delivery efficiency, and supports better business decisions.
