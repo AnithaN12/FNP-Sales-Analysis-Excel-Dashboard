@@ -50,11 +50,11 @@ FNP (Ferns and Petals) that specializes in sending gifts for various occasions l
 
 # Key Insights
 
-Generated total revenue of ₹35.20 lakh from 1,000 orders.
-Colors was the highest revenue-generating product category.
-February and August recorded strong sales performance.
-Imphal ranked first among the top 10 cities by order volume.
-The correlation value of 0.00348 indicated almost no linear relationship between order quantity and delivery time.
+* Generated total revenue of ₹35.20 lakh from 1,000 orders.
+* Colors was the highest revenue-generating product category.
+* February and August recorded strong sales performance.
+* Imphal ranked first among the top 10 cities by order volume.
+* The correlation value of 0.00348 indicated almost no linear relationship between order quantity and delivery time.
 
 # Project Outcome
 
